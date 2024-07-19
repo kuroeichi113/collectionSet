@@ -14,7 +14,7 @@ public class FilterCriteria {
         System.out.println("4 - Цвет");
 
         int criterion = scanner.nextInt();
-        scanner.nextLine();  // consume the newline
+        scanner.nextLine();
 
         switch (criterion) {
             case 1:

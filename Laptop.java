@@ -16,7 +16,7 @@ public class Laptop {
         this.color = color;
     }
 
-    // Getters
+
     public String getBrand() {
         return brand;
     }

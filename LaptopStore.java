@@ -15,7 +15,7 @@ public class LaptopStore {
         laptops.add(new Laptop("HP", 32, 1024, "Windows", "Black"));
         laptops.add(new Laptop("Asus", 16, 256, "Windows", "White"));
         laptops.add(new Laptop("Lenovo", 8, 512, "Windows", "Gray"));
-        // Add more laptops as needed
+
     }
 
     public Set<Laptop> getLaptops() {
