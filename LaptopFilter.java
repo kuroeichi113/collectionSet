@@ -37,5 +37,5 @@ public class LaptopFilter {
         Set<Laptop> filteredLaptops = filterLaptops(store.getLaptops(), criteria);
         printLaptops(filteredLaptops);
     }
-1
+
 }
